@@ -35,7 +35,7 @@ IDE de desarrollo
 3- Para ejecutar el jar use el siguiente comando sustituyendo $HOME por la ubicacion donde ha descargado el proyecto java -jar  $HOME/BANK_TECHNICAL_TEST/build/bank_transactions-0.0.1-SNAPSHOT.jar
 
 4- Verificar que ha inicado correctamente, si tinee problemas validar que el fichero .jar exista y rectificar la ruta 
-
+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
 5- Para ver la documentacion y probar los endpoints navegue a la siguiente en su navegdor web url http://localhost:8084/swagger-ui.html#/bank-transaction-controller
    debe sustituir localhost por la ip de la maquina donde esta ejecutando el jar.
    En la interface podra ver las diferentes operaciones y al hacer clic en cada una de ellas podra ver los detalles, como la documentacion
@@ -54,6 +54,5 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 
 ## Más informacion
 
-Echo por Carlos Adrian Soto Botero.
-http://localhost:8080/amil@gmail.com
+Echo por leon matias.
 
